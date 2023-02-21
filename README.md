@@ -13,4 +13,4 @@ A relational database made up of 17 tables which contain ifnormation on film ren
 
 [Full Data Set](www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
-Consult the project visualiztaion in [Tableau public](https://public.tableau.com/app/profile/adri.8755/viz/VisualizationsTask_3_10/Dashboard3)
+Consult the project visualiztaions in [Tableau public](https://public.tableau.com/app/profile/adri.8755/viz/VisualizationsTask_3_10/Dashboard3)
