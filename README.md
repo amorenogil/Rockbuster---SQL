@@ -10,4 +10,7 @@ The objective of the project was to help the company plan its 2020 business stra
 # Data 
 
 A relational database made up of 17 tables which contain ifnormation on film rentals, movies, customers, payments ... 
+
 [Full Data Set](www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+Consult the project visualiztaion in [Tableau public](https://public.tableau.com/app/profile/adri.8755/viz/VisualizationsTask_3_10/Dashboard3)
